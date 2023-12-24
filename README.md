@@ -1,7 +1,7 @@
 # Real Time Bus Tracker
 
 ## Description
-This project was created for the Professional Certificate in Coding: Full Stack Development with MERN MITxPRO course. It puuls data from MBTA to show the bus stops between MIT and Harvard.
+This project was created for the Professional Certificate in Coding: Full Stack Development with MERN MITxPRO course. It pulls data from MBTA to show the bus stops between MIT and Harvard.
 
 ## How to Run
 You will need your own API key in order to run this application. 
